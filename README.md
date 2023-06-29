@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭I'm currently working on becoming a software developer! 
-Pronounts: He/Him. 
+Pronouns: He/Him. 
 I'm  learning coding and use of tools, including Git. I'm looking to collaborate on various code languages as I learn Java. Particularly, I can always use help with expanding my knowledge in any way I can. If there are tips and tricks to improve what I'm doing, I am always open to them. 
 You can always reach me at dswonger@live.com
 Fun fact - I play the tuba!
