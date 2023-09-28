@@ -1,0 +1,17 @@
+U-Chews|0|0
+Ginger Ayle|0|0
+Snykkers|0|0
+Chippos|0|0
+Stackers|0|0
+Papsi|0|0
+Mountain Melter|0|0
+Wonka Bar|0|0
+Caramel Bar|0|0
+7Down|0|0
+Moonpie|0|0
+Popcorn|1|0
+Teaberry|0|1
+Preengles|0|0
+Singlemint Gum|3|2
+Chiclets|0|1
+**TOTAL SALES** $12.50
