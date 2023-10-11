@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭I'm currently working on becoming a software developer! 
-Pronouns: He/Him. 
-I'm  learning coding and use of tools, including Git. I'm looking to collaborate on various code languages as I learn Java. Particularly, I can always use help with expanding my knowledge in any way I can. If there are tips and tricks to improve what I'm doing, I am always open to them. 
-You can always reach me at dswonger@live.com
-Fun fact - I play the tuba!
+Ever since I was little, I have enjoyed solving puzzles and helping others. My teachers would often tell my parents how I had a certain knack for not only for learning on my own, but elevating those around me to greater potentials. This, along with a love of music, led to a career as a music teacher. I always found great satisfaction in analyzing all the nuances of a band - the instruments, the notes on the page, the abilities of the players - and bringing them together for a final performance. 
+
+Now I'm embarking on a new journey. On this journey I hope to reignite that childhood wonder for creative puzzle solving and apply that to a new career field in technology. Check out what I am working on!
